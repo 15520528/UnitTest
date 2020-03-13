@@ -2,50 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e053b69f-89f4-4d86-9305-63008c2ba694" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/junit4/Exception/ExpectException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Annotation/AnnotationClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Annotation/MathUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/AssertTest/JunitTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Exception/ExpectException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Mockito/MockitoTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Mockito/MockitoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Mockito/Portfolio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Mockito/PortfolioTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Mockito/Stock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Mockito/StockService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Parameter/ParameterizedTestFields$MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Parameter/ParameterizedTestFields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Parameter/ParameterizedTestUsingConstructor$MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Parameter/ParameterizedTestUsingConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Rules/RuleExceptionTesterExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Rules/RuleTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Rules/UsesVerifier$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/Rules/UsesVerifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/TestSuite/SuitClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/TestSuite/TestJunit1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/TestSuite/TestJunit2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/junit4/TestSuite/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Annotation/AnnotationClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AssertTest/JunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/AssertTest/JunitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/MockitoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/MockitoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/Portfolio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/Portfolio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/PortfolioTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/PortfolioTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/StockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/StockService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Parameter/ParameterizedTestFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Parameter/ParameterizedTestFields.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Parameter/ParameterizedTestUsingConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Parameter/ParameterizedTestUsingConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rules/RuleExceptionTesterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Rules/RuleExceptionTesterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rules/RuleTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Rules/RuleTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Rules/UsesVerifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Rules/UsesVerifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite/SuitClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/TestSuite/SuitClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite/TestJunit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestJunit1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite/TestJunit2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestJunit2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Annotation/AnnotationClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Annotation/MathUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AssertTest/JunitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/UnitTest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/MockitoTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/MockitoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/Portfolio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/PortfolioTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/Stock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/StockService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Parameter/ParameterizedTestFields$MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Parameter/ParameterizedTestFields.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Parameter/ParameterizedTestUsingConstructor$MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Parameter/ParameterizedTestUsingConstructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Rules/RuleExceptionTesterExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Rules/RuleTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Rules/UsesVerifier$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Rules/UsesVerifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestSuite/SuitClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestSuite/TestJunit1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestSuite/TestJunit2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestSuite/TestRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Exception/ExpectException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#125#126#0" expanded="true" />
@@ -135,8 +117,8 @@
         <option value="$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestJunit1.java" />
         <option value="$PROJECT_DIR$/src/test/java/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/junit4/Parameter/ParameterizedTestFields.java" />
-        <option value="$PROJECT_DIR$/src/main/java/junit4/Exception/ExpectException.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/junit4/Exception/ExpectException.java" />
       </list>
     </option>
   </component>
@@ -261,7 +243,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584081711974" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584081783254" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -402,8 +384,16 @@
       <workItem from="1556033625518" duration="606000" />
       <workItem from="1556866059397" duration="610000" />
       <workItem from="1584003488433" duration="1433000" />
-      <workItem from="1584070274780" duration="2335000" />
+      <workItem from="1584070274780" duration="2485000" />
     </task>
+    <task id="LOCAL-00001" summary="some samples with unitTest">
+      <created>1584081742057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584081742057</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -439,13 +429,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61849000" />
+    <option name="totallyTimeSpent" value="61999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31524342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31524342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,7 +443,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3664495" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3664495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -462,7 +451,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26384366" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26384366" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -511,6 +500,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some samples with unitTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="some samples with unitTest" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -730,7 +723,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Exception/ExpectException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#125#126#0" expanded="true" />
