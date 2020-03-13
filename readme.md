@@ -26,6 +26,8 @@ State testing is about validating the result. Behavior testing is about testing 
 
 [mockito reference 3](https://www.javarticles.com/2015/07/mockito-stubbing-with-custom-answers.html)
 
+[mockito reference 4](http://blog.co-mit.com/post/55/JUNIT%3A+S%E1%BB%AD+d%E1%BB%A5ng+Mockito+v%E1%BB%9Bi+jUnit+trong+Spring+Unit+Testing?fbclid=IwAR2upYPaslPLzA9K8KeWqYmVCZ13AYbu_Rxf9G2Al8kN8SEggB81V00PZZY)
+
 Sử dụng mocking technical để kiểm tra tính đúng đắn của một function bên trong một interface or class mà chưa triển khai logic code. Đây chính là việc giả lập kết quả trả về của các functions khi chúng chưa được triển khai.
 
 mockito là một framwork hỗ trợ việc mock. sử  dụng `@mock` để định một đối tượng là mock.

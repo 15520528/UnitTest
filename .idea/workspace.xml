@@ -2,19 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e053b69f-89f4-4d86-9305-63008c2ba694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AssertTest/JunitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Parameter/ParameterizedTestFields.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Parameter/ParameterizedTestUsingConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rules/RuleExceptionTesterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rules/RuleTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rules/UsesVerifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestSuite/SuitClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestSuite/TestJunit1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestSuite/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Annotation/AnnotationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Annotation/AnnotationClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AssertTest/JunitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/AssertTest/JunitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/MockitoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/MockitoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/Portfolio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/Portfolio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/PortfolioTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/PortfolioTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mockito/StockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Mockito/StockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Parameter/ParameterizedTestFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Parameter/ParameterizedTestFields.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Parameter/ParameterizedTestUsingConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Parameter/ParameterizedTestUsingConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rules/RuleExceptionTesterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Rules/RuleExceptionTesterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rules/RuleTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Rules/RuleTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rules/UsesVerifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/Rules/UsesVerifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite/SuitClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/TestSuite/SuitClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite/TestJunit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestJunit1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite/TestJunit2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestJunit2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestSuite/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Annotation/AnnotationClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Annotation/MathUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AssertTest/JunitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/UnitTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/MockitoTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/MockitoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/Portfolio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/PortfolioTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Mockito/StockService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parameter/ParameterizedTestFields$MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parameter/ParameterizedTestFields.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parameter/ParameterizedTestUsingConstructor$MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parameter/ParameterizedTestUsingConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Rules/RuleExceptionTesterExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Rules/RuleTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Rules/UsesVerifier$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Rules/UsesVerifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestSuite/SuitClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestSuite/TestJunit1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestSuite/TestJunit2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestSuite/TestRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,31 +59,31 @@
     <SUITE FILE_PATH="coverage/UnitTest$SuitClass.ic" NAME="SuitClass Coverage Results" MODIFIED="1551868678882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Mockito/PortfolioTester.java">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Exception/ExpectException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Mockito/MockitoTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Mockito/MockitoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
+            <state relative-caret-position="105">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#testMoreThanOneReturnValue#0;class#MockitoTest#0" />
                 <element signature="method#testReturnValueDependentOnMethodParameter#0;class#MockitoTest#0" />
-                <element signature="method#testgetValue#0;class#MockitoTest#0" />
-                <element signature="e#762#902#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
+                <element signature="e#1289#1429#0" expanded="true" />
+                <element signature="e#1428#1429#0" expanded="true" />
                 <element signature="method#testReturnValueInDependentOnMethodParameter#0;class#MockitoTest#0" />
                 <element signature="method#testWithAnyClass#0;class#MockitoTest#0" />
                 <element signature="method#testWithThrow#0;class#MockitoTest#0" />
@@ -60,15 +91,6 @@
                 <element signature="method#testWithDoThrow#0;class#MockitoTest#0" />
                 <element signature="method#testVerify#0;class#MockitoTest#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Mockito/StockService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -89,7 +111,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/AssertTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/main.java" />
         <option value="$PROJECT_DIR$/src/main/java/AnnotationClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/TestRunner.java" />
         <option value="$PROJECT_DIR$/src/main/java/TestJunit2.java" />
@@ -106,12 +127,16 @@
         <option value="$PROJECT_DIR$/src/main/java/Rules/RuleTester.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rules/UsesVerifier.java" />
         <option value="$PROJECT_DIR$/src/main/java/Annotation/AnnotationClass.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Mockito/Stock.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mockito/Portfolio.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mockito/PortfolioTester.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mockito/StockService.java" />
         <option value="$PROJECT_DIR$/src/main/java/Mockito/MockitoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestJunit1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/junit4/Parameter/ParameterizedTestFields.java" />
+        <option value="$PROJECT_DIR$/src/main/java/junit4/Exception/ExpectException.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -124,25 +149,15 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tutorial_1.0" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tutorial_1.0" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="1289" />
-    <option name="height" value="741" />
+    <option name="y" value="25" />
+    <option name="width" value="1299" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -152,33 +167,113 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="junit4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="junit4" type="462c0819:PsiDirectoryNode" />
+              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="junit4" type="462c0819:PsiDirectoryNode" />
+              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="AnnotationClass.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="junit4" type="462c0819:PsiDirectoryNode" />
+              <item name="AssertTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="junit4" type="462c0819:PsiDirectoryNode" />
+              <item name="Mockito" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unit-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unit-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553138935595" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FacebookAPI" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584081711974" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27699918" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,18 +287,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MockitoTest.testVerify">
-    <configuration name="MockitoTest.testReturnValueInDependentOnMethodParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTest" />
+  <component name="RunManager" selected="JUnit.ExpectException.testWithEmpty">
+    <configuration name="ExpectException.testWithEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mockito.*" />
+          <option name="PATTERN" value="junit4.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Mockito" />
-      <option name="MAIN_CLASS_NAME" value="Mockito.MockitoTest" />
-      <option name="METHOD_NAME" value="testReturnValueInDependentOnMethodParameter" />
+      <option name="PACKAGE_NAME" value="junit4.Exception" />
+      <option name="MAIN_CLASS_NAME" value="junit4.Exception.ExpectException" />
+      <option name="METHOD_NAME" value="testWithEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -213,12 +308,12 @@
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mockito.*" />
+          <option name="PATTERN" value="junit4.Mockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Mockito" />
-      <option name="MAIN_CLASS_NAME" value="Mockito.MockitoTest" />
+      <option name="MAIN_CLASS_NAME" value="junit4.Mockito.MockitoTest" />
       <option name="METHOD_NAME" value="testVerify" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -229,12 +324,12 @@
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mockito.*" />
+          <option name="PATTERN" value="junit4.Mockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Mockito" />
-      <option name="MAIN_CLASS_NAME" value="Mockito.MockitoTest" />
+      <option name="MAIN_CLASS_NAME" value="junit4.Mockito.MockitoTest" />
       <option name="METHOD_NAME" value="testWithDoThrow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -245,12 +340,12 @@
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mockito.*" />
+          <option name="PATTERN" value="junit4.Mockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Mockito" />
-      <option name="MAIN_CLASS_NAME" value="Mockito.MockitoTest" />
+      <option name="MAIN_CLASS_NAME" value="junit4.Mockito.MockitoTest" />
       <option name="METHOD_NAME" value="testWithThrow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -261,12 +356,12 @@
       <module name="UnitTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mockito.*" />
+          <option name="PATTERN" value="junit4.Mockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Mockito" />
-      <option name="MAIN_CLASS_NAME" value="Mockito.MockitoTest" />
+      <option name="MAIN_CLASS_NAME" value="junit4.Mockito.MockitoTest" />
       <option name="METHOD_NAME" value="whenAddCalledVerfied" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -275,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ExpectException.testWithEmpty" />
         <item itemvalue="JUnit.MockitoTest.testVerify" />
         <item itemvalue="JUnit.MockitoTest.testWithDoThrow" />
         <item itemvalue="JUnit.MockitoTest.whenAddCalledVerfied" />
         <item itemvalue="JUnit.MockitoTest.testWithThrow" />
-        <item itemvalue="JUnit.MockitoTest.testReturnValueInDependentOnMethodParameter" />
       </list>
     </recent_temporary>
   </component>
@@ -301,14 +396,17 @@
       <workItem from="1552227114915" duration="607000" />
       <workItem from="1552293622680" duration="1227000" />
       <workItem from="1553054800270" duration="12475000" />
-      <workItem from="1553087077595" duration="14712000" />
+      <workItem from="1553087077595" duration="17544000" />
+      <workItem from="1553175461640" duration="1307000" />
+      <workItem from="1553677061536" duration="669000" />
+      <workItem from="1556033625518" duration="606000" />
+      <workItem from="1556866059397" duration="610000" />
+      <workItem from="1584003488433" duration="1433000" />
+      <workItem from="1584070274780" duration="2335000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MockitoTest_testVerify - 2019.03.21 at 09h 42m 06s.xml">
-      <configuration name="MockitoTest.testVerify" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MockitoTest_testVerify - 2019.03.21 at 09h 42m 55s.xml">
       <configuration name="MockitoTest.testVerify" configurationId="JUnit" />
     </history-entry>
@@ -336,14 +434,18 @@
     <history-entry file="MockitoTest_testVerify - 2019.03.21 at 10h 02m 01s.xml">
       <configuration name="MockitoTest.testVerify" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ExpectException_testWithEmpty - 2020.03.13 at 13h 24m 59s.xml">
+      <configuration name="ExpectException.testWithEmpty" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52057000" />
+    <option name="totallyTimeSpent" value="61849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16999201" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31524342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -352,7 +454,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3664495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3664495" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,15 +462,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26384366" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24980047" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" sideWeight="0.49837133" weight="0.11971269" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.49837133" weight="0.22106944" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -410,19 +512,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.attach_pid13804" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestSuite/TestJunit2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestJunit2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
@@ -432,87 +528,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestSuite/TestJunit1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="54" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Parameter/ParameterizedTestFields.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-            <element signature="e#1075#1076#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Parameter/ParameterizedTestUsingConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rules/RuleExceptionTesterExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Annotation/AnnotationClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="53" column="28" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#866#867#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rules/UsesVerifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#162#281#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestSuite/TestRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
@@ -522,7 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestSuite/SuitClass.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/TestSuite/SuitClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
@@ -532,31 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rules/RuleTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AssertTest/JunitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mockito/Stock.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Mockito/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
@@ -573,7 +565,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mockito/Portfolio.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Mockito/Portfolio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
@@ -590,34 +582,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mockito/PortfolioTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/UnitTest.iml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mockito/StockService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Mockito/StockService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Mockito/MockitoTest.java">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Mockito/PortfolioTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="116" column="53" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
+        <state relative-caret-position="285">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Rules/UsesVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Rules/RuleExceptionTesterExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Rules/RuleTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/TestSuite/TestJunit1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Parameter/ParameterizedTestFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Parameter/ParameterizedTestUsingConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/AssertTest/JunitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Annotation/AnnotationClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.13-beta-1/junit-4.13-beta-1-sources.jar!/org/junit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Mockito/MockitoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
             <element signature="method#testMoreThanOneReturnValue#0;class#MockitoTest#0" />
             <element signature="method#testReturnValueDependentOnMethodParameter#0;class#MockitoTest#0" />
-            <element signature="method#testgetValue#0;class#MockitoTest#0" />
-            <element signature="e#762#902#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#1289#1429#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
             <element signature="method#testReturnValueInDependentOnMethodParameter#0;class#MockitoTest#0" />
             <element signature="method#testWithAnyClass#0;class#MockitoTest#0" />
             <element signature="method#testWithThrow#0;class#MockitoTest#0" />
@@ -628,5 +727,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/junit4/Exception/ExpectException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>unit-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27699918" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.13-beta-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
